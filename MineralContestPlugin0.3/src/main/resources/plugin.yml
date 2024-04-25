@@ -1,0 +1,33 @@
+name: MineralContestPlugin0.3
+version: '${project.version}'
+main: mineralcontest.mineralcontest0.MineralContest0
+api-version: '1.20'
+commands:
+
+  admin:
+    description: An admin panel
+
+  arena:
+    description: Teleport you and your team to the arena
+
+  setup-teams:
+    description: Creates the team
+    Usage: Specify number of teams
+
+  class:
+    description: Choose your starting class
+
+  chest:
+    description: Give chest game
+
+  chest-mid:
+    description: Give mid chest
+
+  spawn:
+    description: Teleport all players to spawn
+
+  warden:
+    description: Spawn a warden with loot
+
+  start:
+    description: Starts game with timer
