@@ -1,4 +1,4 @@
-Minecraft Mineral Contest Plugin
+Minecraft Mineral Contest Plugin (FRENCH)
 
 **Description:**
 
