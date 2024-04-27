@@ -35,7 +35,7 @@ You can install the plugin on your Minecraft server and start using its current 
 **Contributors:**
 
 Feel free to contribute to the development of this plugin. Your feedback, suggestions, and contributions are highly appreciated!
-- Made by dev-smurf & dev-tony
+- Made by dev-smurf & dev-t0ny
 
 ---
 
