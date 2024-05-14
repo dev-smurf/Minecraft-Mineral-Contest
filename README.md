@@ -1,7 +1,7 @@
 Minecraft Mineral Contest Plugin (FRENCH) 1.20.1 
 
 **Description:**
-
+  
 The "Mineral Contest Plugin" is a work in progress, but you can still use its current functionality on your Minecraft server. This plugin aims to introduce competitive mineral mining competitions for players, adding a new dimension of excitement to the game. While it's not yet complete, the existing features are functional and ready for use.
 
 ---
