@@ -1,4 +1,4 @@
-Minecraft Mineral Contest Plugin (FRENCH) 1.20.1
+Minecraft Mineral Contest Plugin (FRENCH) 1.20.1 
 
 **Description:**
 
